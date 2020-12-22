@@ -52,6 +52,17 @@ Feel free to propse additions to the list!
 | Common Voice Chinese (Hong Kong) | Chinese (Hong Kong) | <1 hours (validated); <1 hours (total) | 15 speakers (reported: 24% female / 37% male) | <https://voice.mozilla.org/en/datasets> | [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
 | Yesno | Hebrew | 6 mins | one male | <http://www.openslr.org/1/> | [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
 | LJ Speech Corpus | English | ~24 hours | [one female](https://librivox.org/reader/11049) | <https://data.keithito.com/data/speech/LJSpeech-1.1.tar.bz2> | [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
+| NST Danish ASR Database | Danish | 229,992 utterances | 616 speakers | original: <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-19/>, reorganized: <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-55/> | [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| NST Danish Dictation | Danish | 34,955 utterances | 151 speakers | <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-20/> | [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| NST Danish Speech Synthesis | Danish | 4,108 utterances | 1 male speaker | <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-21/> | [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| NST Swedish ASR Database | Swedish | 366,000 utterances | 1,000 speakers | original: <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-16/>, reorganized: <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-56/> | [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| NST Swedish Dictation | Swedish | 45,620 utterances | 195 speakers | <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-17/> | [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| NST Swedish Speech Synthesis | Swedish | 5,279 utterances | 1 male speaker | <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-18/> | [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| NST Norwegian ASR Database | Norwegian | 359,760 utterances | 980 speakers | original: <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-13/>, reorganized: <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-54/> | [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| NST Norwegian Dictation | Norwegian | 33,360 utterances | 144 speakers | <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-14/> | [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| NST Norwegian Speech Synthesis | Norwegian | 5,363 utterances | 1 male speaker | <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-15/> | [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| NB Tale – Speech Database for Norwegian | Norwegian | 7,600 utterances + ~12 hours | 380 speakers | <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-31/> | [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| Norwegian Parliamentary Speech Corpus (v0.1) | Norwegian | ~59 hours | 203 speakers | <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-58/> | [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) |
 
 ## [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 
@@ -86,10 +97,11 @@ Feel free to propse additions to the list!
 |  SIWIS | French | ~10 hours  | one female | <http://datashare.is.ed.ac.uk/download/DS_10283_2353.zip> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 |  VCTK | English | 44 hours | 109 speakers  | <http://datashare.is.ed.ac.uk/download/DS_10283_3443.zip> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 |  LibriTTS | English | 586 hours | 2,456 speakers (1,185 female / 1,271 male)  | <http://www.openslr.org/60/> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
-|  Augmented LibriSpeech | Audio (English); Text (English, French) | 236 hours | | <https://persyval-platform.univ-grenoble-alpes.fr/DS91/detaildataset> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
+|  Augmented LibriSpeech | Audio (English); Text (English, French) | 236 hours | | <https://persyval-platform.univ-grenoble-alpes.fr/datasets/DS91> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 |  Helsinki Prosody Corpus | English | 262.5 hours | 1,230 speakers | <https://github.com/Helsinki-NLP/prosody> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 |Tuva Speech Database | Norwegian | 24 hours | 40 speakers | https://www.nb.no/sprakbanken/show?serial=oai:nb.no:sbr-44&lang= |  [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 | COERLL Kʼicheʼ corpus | Kʼicheʼ | 34 minutes | ? speakers | https://cl.indiana.edu/~ftyers/resources/utexas-kiche-audio.tar.gz | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
+| Timers and Such v0.1 | English (synthetic: US, real: various nationalities) | synthetic: 172 hours, real: 0.29 hours | 21 synthetic, 11 real | https://zenodo.org/record/4110812#.X9j0RmBOkYM | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 
 ## [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -103,9 +115,11 @@ Feel free to propse additions to the list!
 | Google Bengali | Bengali | 229 hours| 508 speakers| <http://www.openslr.org/53/> | CC-BY-SA 4.0 |
 | Google Sinhala | Sinhala | 224 hours| 478 speakers| <http://www.openslr.org/52/> | CC-BY-SA 4.0 |
 | Google Sundanese | Sundanese | 333 hours| 542 speakers| <http://www.openslr.org/36/> | CC-BY-SA 4.0 |
-| Spokend Wikipedia Corpus (SWC-2017) | English; German; Dutch | 182 hours; 249 hours; 79 hours | 395 speakers; 339 speakers; 145 speakers | <https://nats.gitlab.io/swc/> | CC-BY-SA 4.0 |
+| Spoken Wikipedia Corpus (SWC-2017) | English; German; Dutch | 182 hours; 249 hours; 79 hours | 395 speakers; 339 speakers; 145 speakers | <https://nats.gitlab.io/swc/> | CC-BY-SA 4.0 |
 | Chuvash TTS | Chuvash | 4 hours | 1 speaker | <https://github.com/ftyers/Turkic_TTS> | CC-BY-SA 4.0  |
 | Forschergeist | German | 2 hours | 2 speakers (1 female; 1 male) | female speaker: <https://goofy.zamia.org/zamia-speech/corpora/forschergeist/annettevogt-20180320-rec.tgz>; male speaker: <https://goofy.zamia.org/zamia-speech/corpora/forschergeist/timpritlove-20180320-rec.tgz> | CC-BY-SA 4.0  |
+| Malayalam Speech Corpus by [SMC](https://blog.smc.org.in/malayalam-speech-corpus/) | Malayalam | 1:36 hours | 75 speakers (3 female, 12 male, 60 unidentified) | https://releases.smc.org.in/msc-reviewed-speech/ | CC-BY-SA 4.0  |
+| Google Malayalam | Malayalam | 3.02 hours| 24 speakers| <http://www.openslr.org/63/> | CC-BY-SA 4.0 |
 
 
 ## [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
@@ -120,7 +134,7 @@ Feel free to propse additions to the list!
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
 | TV3Parla | Catalan | 240 hours  |  | <http://laklak.eu/share/tv3_0.3.tar.gz> | [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
-| Russian Open STT Corpus | Russian | ~7000 hours  |  | <https://github.com/snakers4/open_stt/#links> | [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) with some [expections](https://github.com/snakers4/open_stt/blob/master/LICENSE)|
+| Russian Open STT Corpus | Russian | ~10,000 hours public, ~10,000 more upon request  |  | <https://github.com/snakers4/open_stt/#links> | [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) with some [exceptions](https://github.com/snakers4/open_stt/blob/master/LICENSE)|
 | Russian Open TTS Corpus | Russian | 145 hours  | 3 males | <https://github.com/snakers4/open_tts/#links> | [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) with some [expections](https://github.com/snakers4/open_tts/blob/master/LICENSE)|
 
 ## [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -141,6 +155,13 @@ Feel free to propse additions to the list!
 | Pansori TEDxKR | Korean | 3 hours | 41 speakers | <http://www.openslr.org/58/> | CC-BY-NC-ND 4.0 |
 | Primewords Mandarin | Mandarin | 100 hours | 296 speakers | <http://www.openslr.org/47/> | CC-BY-NC-ND 4.0 |
 | MuST-C v1.0 | Audio (English); Text (Dutch, French, German, Italian, Portuguese, Romanian, Russian, Spanish) | 408, 504, 492, 465, 442, 385, 432, 489 hours per language pair | | <https://ict.fbk.eu/must-c-release-v1-0/> | CC-BY-NC-ND 4.0 |
+
+
+## [CDLA-Permissive](https://cdla.io/permissive-1-0/)
+
+| CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
+| --- | --- | --- | --- | --- | --- |
+| DiPCo | English | ~5 hours | 32 speakers (13 female; 19 male) | <https://s3.amazonaws.com/dipco/DiPCo.tgz> | [CDLA-Permissive-1.0](https://cdla.io/permissive-1-0/) |
 
 ## [GNU General Public License](https://www.gnu.org/licenses/gpl.html)
 
@@ -203,3 +224,5 @@ Feel free to propse additions to the list!
 | Microsoft Speech Language Translation Corpus | English; Chinese; Japanese| | | <https://msropendata.com/datasets/54813518-4ea6-4c39-9bb2-b0d1e5f0c187> | Non-Commercial [Microsoft Research Data License Agreement](https://msrodr-api.azurewebsites.net//licenses/2f933be3-284d-500b-7ea3-2aa2fd0f1bb2/file) |
 | Hey Snips Corpus | English | 11K positive "Hey Snips" (~4.4 hours) and 87K negative (~89 hours) utterances | 2215 speakers (positive & negative) and 4028 speakers (negative only) | <https://research.snips.ai/datasets/keyword-spotting> | [Snips Data License](https://github.com/snipsco/keyword-spotting-research-datasets/blob/master/LICENSE) |
 | Snips SLU Corpus | English; French | 1660 "Smart Lights EN" (~1.3 hours), 1286 "Smart Speaker EN" (~55 minutes), 1138 "Smart Speaker FR" (~50 minutes) utterances | English: 69 speakers; French: 30 speakers | <https://research.snips.ai/datasets/spoken-language-understanding> | [Snips Data License](https://github.com/snipsco/keyword-spotting-research-datasets/blob/master/LICENSE) |
+| CMU Sphinx Group - AN4 | English | "an4_clstk"(~50 minutes) "an4test_clstk" (~6 minutes) | "an4_clstk": 21 female, 53 male "an4test_clstk": 3 female, 7 male | http://www.speech.cs.cmu.edu/databases/an4/an4_raw.bigendian.tar.gz | [AN4](http://www.speech.cs.cmu.edu/databases/an4/LICENSE.html) |
+| FT Speech | Danish | ~1,857 hours (1,017,244 utterances) | 434 speakers (176 female, 258 male) | <https://ftspeech.dk> | [FT Speech License](https://ftspeech.dk/LICENSE.html) |
